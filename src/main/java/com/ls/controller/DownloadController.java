@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.*;
 
 @Controller
-public class DocumentController {
+public class DownloadController {
 
     /**
      * 使用ResponseEntity进行文件下载  未实现
